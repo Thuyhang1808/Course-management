@@ -1,0 +1,1 @@
+<?php /**PATH C:\PHP Laravel\course-management\resources\views/components/status-badge.blade.php ENDPATH**/ ?>
